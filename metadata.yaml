@@ -1,0 +1,27 @@
+_repo: The-Elson-Readers-Book-5_9106
+creator:
+  authors:
+  - agent_name: Elson, William H. (William Harris)
+    alias: Elson, William Harris
+    birthdate: 1856
+    deathdate: 1935
+    gutenberg_agent_id: '2278'
+    url: http://www.gutenberg.org/2009/agents/2278
+  - agent_name: Keck, Christine M.
+    gutenberg_agent_id: '4654'
+    url: http://www.gutenberg.org/2009/agents/4654
+description: ''
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9106'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'Readers'
+title: The Elson Readers, Book 5
+url: http://www.gutenberg.org/ebooks/9106
